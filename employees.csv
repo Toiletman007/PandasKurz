@@ -1,0 +1,1001 @@
+id_employee,gender,start date,insurance,salary,rise_salary,department
+1,Male,11/26/2023,false,356619,6.9,Support
+2,Female,1/27/2024,true,626147,13.0,Engineering
+3,Female,3/30/2023,true,332593,6.3,Support
+4,Male,1/8/2024,true,325067,9.9,Human Resources
+5,Female,4/15/2024,false,667828,13.6,Product Management
+6,Male,1/26/2024,false,579460,5.6,Services
+7,Male,1/19/2024,true,375881,6.9,Engineering
+8,Male,4/1/2023,false,459264,12.6,Human Resources
+9,Polygender,10/9/2023,false,694415,7.3,Human Resources
+10,Non-binary,5/25/2023,true,439208,8.4,Services
+11,Female,10/31/2023,true,448591,5.5,Marketing
+12,Male,10/2/2023,false,724755,5.8,Training
+13,Male,9/29/2023,true,572862,12.1,Accounting
+14,Female,11/13/2023,true,717387,7.4,Human Resources
+15,Male,4/19/2024,true,486780,7.2,Services
+16,Male,3/16/2024,false,323687,13.5,Human Resources
+17,Male,1/25/2024,false,312083,5.4,Accounting
+18,Female,9/21/2023,true,732378,12.5,Training
+19,Male,2/27/2024,false,366692,5.1,Marketing
+20,Male,5/6/2023,false,347071,7.0,Accounting
+21,Male,3/5/2023,false,374407,5.5,Engineering
+22,Female,7/10/2023,true,599026,12.2,Accounting
+23,Female,4/26/2024,false,387498,6.3,Human Resources
+24,Female,3/7/2023,false,737600,7.5,Sales
+25,Male,12/20/2023,true,554955,10.5,Product Management
+26,Male,10/22/2023,false,408551,13.3,Business Development
+27,Female,4/28/2024,true,691618,12.1,Product Management
+28,Male,1/12/2024,true,658085,5.2,Product Management
+29,,5/10/2024,true,725075,5.5,Product Management
+30,Male,12/24/2023,true,686591,5.1,Training
+31,Female,2/13/2024,false,685143,8.4,Training
+32,Female,3/1/2024,true,567242,13.5,Business Development
+33,,5/30/2023,true,774991,8.0,Business Development
+34,Male,4/20/2023,true,400721,7.7,Accounting
+35,Male,9/1/2023,false,672408,8.6,Marketing
+36,Female,10/4/2023,true,710441,14.7,Marketing
+37,Female,4/25/2024,true,401092,10.2,Services
+38,Female,3/24/2023,false,615918,11.4,Product Management
+39,Male,10/31/2023,false,729174,14.6,Engineering
+40,Female,10/8/2023,false,791873,8.8,Services
+41,Bigender,6/3/2023,false,620380,9.0,Human Resources
+42,Female,2/21/2024,false,617534,13.7,Support
+43,Female,1/13/2024,true,360769,12.4,Marketing
+44,Male,5/2/2024,false,571765,13.2,Product Management
+45,Male,8/17/2023,true,789712,6.7,Training
+46,Agender,10/21/2023,true,374818,5.2,Business Development
+47,Male,12/9/2023,true,718110,8.2,Support
+48,Male,6/21/2023,true,649214,10.4,Human Resources
+49,Female,1/5/2024,false,348823,10.1,Research and Development
+50,Female,4/16/2023,false,735395,8.4,Business Development
+51,Female,11/10/2023,true,355141,11.1,Sales
+52,Female,10/31/2023,false,551872,5.0,Sales
+53,Female,6/28/2023,true,786979,12.7,Engineering
+54,Male,8/7/2023,false,418601,15.0,Marketing
+55,Male,2/29/2024,true,444413,10.1,Training
+56,Male,3/24/2024,true,313093,10.3,Marketing
+57,Male,2/17/2024,true,452469,6.0,Business Development
+58,Female,3/21/2023,true,785359,13.6,Services
+59,Female,5/10/2024,false,584882,9.0,Support
+60,Male,4/28/2024,false,700244,7.2,Support
+61,Male,7/4/2023,false,743284,9.7,Sales
+62,,10/7/2023,false,435796,11.3,Support
+63,Female,6/20/2023,false,470667,7.0,Sales
+64,Genderfluid,3/10/2023,true,517849,10.7,Engineering
+65,Female,6/18/2023,false,753501,7.3,Support
+66,Genderqueer,8/13/2023,false,780340,12.7,Training
+67,Female,3/11/2024,false,450184,11.3,Human Resources
+68,Female,8/6/2023,false,702314,7.9,Marketing
+69,Male,1/15/2024,true,539955,6.0,Sales
+70,Male,9/28/2023,false,790347,13.6,Legal
+71,Male,10/27/2023,false,584607,14.1,Research and Development
+72,Female,5/17/2024,true,655758,8.3,Accounting
+73,,4/5/2024,true,586641,13.8,Marketing
+74,Female,1/21/2024,true,597859,10.1,Accounting
+75,Non-binary,4/17/2023,true,313764,7.3,Accounting
+76,,10/9/2023,true,520527,5.1,Research and Development
+77,Male,4/24/2023,true,342633,12.0,Human Resources
+78,Male,4/3/2024,false,607670,5.2,Training
+79,Bigender,4/13/2023,true,584995,14.7,Research and Development
+80,Polygender,3/4/2023,false,784948,5.9,Human Resources
+81,Male,10/3/2023,true,746101,10.7,Research and Development
+82,Female,4/22/2024,true,714198,10.6,Human Resources
+83,Male,9/19/2023,false,611235,11.3,Engineering
+84,Male,6/13/2023,true,695763,10.6,Services
+85,Non-binary,1/15/2024,true,535559,10.2,Legal
+86,Male,5/13/2023,false,526627,7.8,Research and Development
+87,Male,4/26/2024,true,307214,13.5,Support
+88,,2/6/2024,false,404599,7.9,Product Management
+89,Male,12/3/2023,false,605356,14.0,Research and Development
+90,Female,6/27/2023,true,407244,5.6,Research and Development
+91,Female,3/20/2023,false,432867,7.8,Research and Development
+92,Male,5/29/2023,false,469609,10.5,Accounting
+93,,3/22/2024,true,346803,5.6,Human Resources
+94,Polygender,3/2/2023,true,441078,6.0,Services
+95,Female,8/25/2023,false,698583,7.4,Business Development
+96,Non-binary,3/10/2023,true,419212,6.4,Accounting
+97,Bigender,8/3/2023,true,428044,14.9,Human Resources
+98,Female,3/22/2024,false,658464,9.1,Product Management
+99,Male,5/24/2023,true,762964,13.8,Research and Development
+100,Female,3/4/2024,false,413328,9.6,Accounting
+101,Female,5/5/2024,true,430097,14.7,Human Resources
+102,Female,12/25/2023,true,611848,13.5,Business Development
+103,Non-binary,5/23/2023,false,674255,6.9,Sales
+104,Male,1/19/2024,true,577924,11.4,Training
+105,Male,6/9/2023,false,774624,13.1,Legal
+106,Female,4/10/2023,true,657876,5.5,Accounting
+107,,6/7/2023,false,649006,10.9,Business Development
+108,Male,2/14/2024,true,763901,13.5,Marketing
+109,Female,11/25/2023,false,575549,12.1,Sales
+110,Female,7/7/2023,true,602169,10.0,Product Management
+111,Male,5/17/2024,false,661592,8.0,Services
+112,Male,12/26/2023,true,727070,9.2,Support
+113,,9/9/2023,false,719557,11.1,Engineering
+114,,10/17/2023,true,555267,14.8,Sales
+115,Female,4/1/2024,false,394537,5.5,Human Resources
+116,Female,1/17/2024,true,746874,11.9,Research and Development
+117,Male,9/15/2023,false,571003,5.6,Marketing
+118,Female,4/2/2023,true,758378,14.1,Legal
+119,Female,4/18/2024,false,393558,8.8,Research and Development
+120,Male,8/28/2023,true,300390,11.9,Training
+121,Male,2/16/2023,false,788574,14.8,Product Management
+122,Female,2/16/2023,true,520132,5.4,Business Development
+123,Male,3/20/2024,false,747535,12.2,Services
+124,Female,5/10/2024,false,327029,6.8,Research and Development
+125,Male,4/5/2024,false,339838,13.6,Human Resources
+126,Male,4/20/2024,false,321889,7.0,Engineering
+127,Male,10/22/2023,false,748218,7.7,Marketing
+128,Female,4/18/2023,false,631743,9.4,Support
+129,Female,3/23/2023,true,650055,11.8,Accounting
+130,Polygender,6/30/2023,true,752790,9.2,Research and Development
+131,Female,3/23/2023,false,309592,8.9,Services
+132,Male,11/2/2023,false,727679,6.2,Marketing
+133,,5/12/2024,true,612072,9.8,Business Development
+134,Male,2/8/2024,false,450682,7.1,Marketing
+135,Male,12/11/2023,false,412438,11.3,Support
+136,Female,10/12/2023,true,777446,7.1,Research and Development
+137,Male,8/13/2023,false,476614,14.5,Sales
+138,Male,2/15/2024,true,412734,7.8,Research and Development
+139,Male,1/10/2024,false,588614,9.5,Marketing
+140,Female,1/29/2024,true,340250,9.7,Human Resources
+141,Male,12/28/2023,false,450618,8.4,Accounting
+142,Male,4/13/2023,false,339564,13.8,Product Management
+143,Female,1/11/2024,true,773410,7.0,Accounting
+144,Male,2/16/2023,false,660465,14.4,Training
+145,Female,6/24/2023,false,472908,12.8,Sales
+146,Polygender,2/27/2023,true,740312,13.1,Product Management
+147,,3/28/2024,false,301919,9.0,Training
+148,Female,12/17/2023,true,482761,9.0,Human Resources
+149,Female,4/21/2023,true,438879,8.0,Product Management
+150,Bigender,4/11/2023,true,512464,11.7,Research and Development
+151,,2/24/2024,true,579966,5.1,Business Development
+152,Male,11/1/2023,true,726187,10.2,Accounting
+153,Female,5/13/2023,false,357274,8.8,Legal
+154,Male,7/19/2023,true,722654,9.9,Legal
+155,Male,12/26/2023,false,494313,10.1,Research and Development
+156,Female,2/23/2023,true,355814,5.5,Support
+157,Male,8/19/2023,false,498147,5.7,Product Management
+158,Female,3/17/2023,false,660636,7.3,Product Management
+159,Female,2/24/2023,true,727312,6.4,Product Management
+160,,1/22/2024,true,687346,12.0,Services
+161,Male,9/18/2023,true,623632,10.0,Legal
+162,Female,10/24/2023,true,371317,6.2,Engineering
+163,Male,1/7/2024,false,723373,6.0,Engineering
+164,Male,7/29/2023,true,428300,9.5,Accounting
+165,Male,2/25/2024,true,665267,5.8,Marketing
+166,Female,5/10/2023,true,614714,11.7,Accounting
+167,Female,4/23/2023,false,362422,12.4,Product Management
+168,,4/8/2023,false,524543,12.3,Training
+169,Male,9/28/2023,false,572861,7.0,Product Management
+170,Female,4/16/2024,true,762219,9.0,Human Resources
+171,Female,10/21/2023,true,446469,13.7,Product Management
+172,Male,3/7/2024,true,715141,12.7,Sales
+173,Female,3/2/2024,false,701822,5.3,Business Development
+174,Male,2/2/2024,false,491012,8.2,Human Resources
+175,Female,5/25/2023,true,551069,6.3,Training
+176,Male,7/27/2023,true,683064,9.8,Marketing
+177,Bigender,10/25/2023,false,454723,10.9,Training
+178,Male,4/28/2024,false,373640,12.5,Services
+179,Male,8/1/2023,true,587756,11.0,Research and Development
+180,Non-binary,6/22/2023,false,351596,13.0,Accounting
+181,Female,6/4/2023,false,587962,7.3,Engineering
+182,Male,2/24/2023,true,535400,8.1,Product Management
+183,Non-binary,4/28/2024,false,326195,7.5,Support
+184,Male,12/26/2023,true,607159,13.0,Legal
+185,Female,4/30/2024,false,594492,5.7,Training
+186,,1/30/2024,true,729986,5.7,Product Management
+187,Female,11/5/2023,true,327751,10.7,Human Resources
+188,Female,12/24/2023,true,715863,14.9,Product Management
+189,,6/2/2023,true,768095,9.0,Research and Development
+190,Male,9/14/2023,true,677342,5.1,Product Management
+191,Female,12/3/2023,false,451650,10.5,Product Management
+192,Male,2/11/2024,false,509215,11.3,Support
+193,Female,10/11/2023,true,644192,10.9,Marketing
+194,Male,8/14/2023,false,300018,6.7,Services
+195,Male,4/28/2024,false,461147,6.6,Marketing
+196,Male,4/8/2023,true,509967,13.8,Services
+197,Female,3/26/2024,false,521947,11.0,Human Resources
+198,Female,8/2/2023,false,456237,14.8,Legal
+199,Male,9/3/2023,true,666798,11.1,Accounting
+200,Male,11/19/2023,true,358662,10.3,Accounting
+201,Male,3/8/2023,true,728524,10.4,Product Management
+202,Male,2/26/2023,true,311814,12.5,Marketing
+203,Male,5/8/2023,true,641309,5.6,Marketing
+204,Female,4/8/2024,false,604025,7.2,Support
+205,Female,3/12/2024,true,770518,8.6,Sales
+206,Female,2/5/2023,false,330835,7.4,Human Resources
+207,Female,3/25/2024,true,490212,8.9,Research and Development
+208,Female,2/3/2023,true,708049,15.0,Sales
+209,Male,8/8/2023,false,300405,13.3,Sales
+210,Female,7/30/2023,true,514267,12.1,Engineering
+211,Female,7/23/2023,true,565152,10.4,Engineering
+212,Male,12/25/2023,true,365129,10.2,Services
+213,Female,1/13/2024,true,697679,7.0,Support
+214,Male,4/21/2024,false,614676,6.3,Training
+215,Female,2/20/2024,false,735477,13.9,Human Resources
+216,Female,11/15/2023,false,645646,10.4,Human Resources
+217,Male,5/2/2024,false,355126,10.2,Accounting
+218,Genderqueer,1/8/2024,false,422840,8.1,Sales
+219,,3/17/2024,true,519352,6.1,Product Management
+220,Female,8/16/2023,false,384075,10.5,Marketing
+221,Agender,1/31/2024,false,335437,7.4,Research and Development
+222,Male,5/1/2023,false,563838,9.5,Services
+223,Female,8/28/2023,false,384397,14.2,Services
+224,Non-binary,4/17/2023,false,351303,9.5,Accounting
+225,Non-binary,2/1/2024,true,573877,10.3,Training
+226,Male,4/5/2024,true,788188,13.9,Sales
+227,Male,3/14/2023,false,690868,10.4,Legal
+228,Female,4/2/2023,true,732961,12.5,Training
+229,Female,9/4/2023,false,778433,12.3,Services
+230,Male,6/23/2023,false,525505,8.0,Engineering
+231,Male,4/6/2023,false,502373,15.0,Business Development
+232,Bigender,5/1/2023,true,617655,7.4,Human Resources
+233,Non-binary,3/30/2023,true,509057,5.0,Engineering
+234,Male,12/29/2023,true,458412,11.3,Accounting
+235,Male,9/18/2023,false,423975,10.0,Product Management
+236,Male,2/25/2024,false,665988,11.7,Sales
+237,Female,2/10/2023,false,702360,5.9,Accounting
+238,Female,2/27/2024,false,734422,9.9,Training
+239,Male,6/17/2023,false,599771,12.3,Services
+240,Male,3/5/2023,false,600169,5.1,Research and Development
+241,Male,9/11/2023,true,386659,9.6,Support
+242,Female,1/29/2024,true,443917,13.0,Sales
+243,Male,12/5/2023,true,459679,13.8,Product Management
+244,,5/10/2023,true,451025,11.4,Accounting
+245,,3/18/2024,false,563633,12.9,Research and Development
+246,Male,5/9/2023,false,697295,10.9,Research and Development
+247,Male,2/20/2024,false,779200,11.1,Support
+248,Polygender,6/5/2023,false,781216,12.0,Marketing
+249,Male,5/7/2023,false,445487,6.6,Legal
+250,Agender,2/24/2023,false,724157,7.1,Research and Development
+251,Female,10/19/2023,false,557245,12.8,Marketing
+252,Female,3/21/2024,false,565282,8.5,Legal
+253,Female,2/19/2023,false,403917,9.4,Marketing
+254,Male,2/6/2024,false,425954,14.8,Marketing
+255,,7/24/2023,false,685475,9.3,Business Development
+256,Female,4/8/2024,false,682255,8.2,Human Resources
+257,Female,12/28/2023,false,781231,6.5,Services
+258,Female,6/17/2023,false,452127,9.8,Services
+259,Female,4/22/2023,false,684027,13.8,Support
+260,Male,11/20/2023,true,633497,10.4,Support
+261,Male,3/31/2024,false,346209,11.5,Legal
+262,Male,5/21/2023,true,799164,9.2,Services
+263,Female,4/1/2024,true,438006,11.2,Engineering
+264,Male,9/11/2023,true,718958,7.6,Sales
+265,Male,2/17/2023,false,680330,14.2,Services
+266,,10/25/2023,true,395171,8.7,Training
+267,Female,10/30/2023,false,747388,7.9,Marketing
+268,,9/14/2023,true,488929,9.2,Engineering
+269,,12/21/2023,false,345615,15.0,Marketing
+270,Female,2/2/2024,true,597540,10.1,Support
+271,Female,4/29/2023,false,326097,7.8,Sales
+272,,3/23/2024,false,381352,13.2,Legal
+273,Male,4/25/2024,false,460957,6.2,Sales
+274,Male,7/29/2023,true,370983,11.3,Training
+275,Male,6/11/2023,true,382285,11.7,Product Management
+276,Female,8/7/2023,false,485888,11.0,Services
+277,Female,11/22/2023,true,403432,13.8,Human Resources
+278,Non-binary,9/30/2023,false,761554,13.3,Training
+279,Female,12/14/2023,true,529436,12.0,Human Resources
+280,Male,4/20/2023,false,321492,15.0,Sales
+281,Male,6/10/2023,true,310775,8.0,Accounting
+282,Female,10/7/2023,true,601663,7.2,Research and Development
+283,Male,12/23/2023,true,300049,9.4,Support
+284,,12/26/2023,true,349043,14.2,Support
+285,Male,3/31/2024,false,691011,6.5,Services
+286,Female,2/16/2023,false,407481,9.3,Training
+287,,12/21/2023,false,308725,12.5,Sales
+288,Male,8/9/2023,false,777927,9.6,Accounting
+289,Male,11/19/2023,true,776849,11.1,Research and Development
+290,Male,2/13/2023,false,748390,5.7,Training
+291,Male,3/8/2023,true,532120,13.9,Training
+292,Female,2/17/2023,true,790241,12.3,Support
+293,Genderqueer,6/13/2023,true,625032,8.0,Training
+294,Female,9/29/2023,true,402580,11.0,Human Resources
+295,Female,3/12/2023,false,715619,13.1,Sales
+296,Male,3/1/2023,false,718619,6.9,Business Development
+297,Male,11/22/2023,false,762945,7.8,Sales
+298,Female,12/8/2023,false,738184,12.8,Services
+299,Female,6/25/2023,false,373174,14.2,Services
+300,Female,7/9/2023,false,783166,12.2,Business Development
+301,Male,7/30/2023,true,706492,7.2,Support
+302,Male,2/5/2024,true,470190,12.6,Sales
+303,Male,12/21/2023,false,635766,11.2,Services
+304,Female,5/14/2024,true,689290,8.2,Marketing
+305,Female,4/27/2023,true,660075,11.5,Research and Development
+306,Genderfluid,10/20/2023,false,422618,9.5,Marketing
+307,Female,8/31/2023,true,607030,6.6,Human Resources
+308,Male,5/23/2023,false,397666,15.0,Product Management
+309,,3/24/2023,true,334108,6.4,Services
+310,Agender,5/28/2023,false,637792,13.2,Services
+311,Male,4/28/2023,false,510288,5.6,Marketing
+312,Genderfluid,10/4/2023,false,614757,8.5,Sales
+313,Male,8/7/2023,false,611578,10.5,Services
+314,Male,6/28/2023,false,591349,7.2,Training
+315,Male,7/31/2023,false,353140,5.3,Sales
+316,Male,6/9/2023,false,662016,11.6,Services
+317,Male,3/16/2023,false,550906,10.1,Training
+318,,10/2/2023,true,755696,12.8,Business Development
+319,Male,7/5/2023,false,622680,7.3,Business Development
+320,Genderfluid,3/29/2024,false,739993,5.1,Product Management
+321,,2/6/2024,false,372017,8.5,Support
+322,Genderqueer,2/6/2023,false,530184,13.9,Engineering
+323,Male,8/22/2023,false,702629,13.7,Accounting
+324,Male,12/20/2023,true,462928,9.2,Engineering
+325,Male,11/3/2023,true,629692,12.0,Sales
+326,Female,5/8/2023,false,523228,5.6,Legal
+327,Male,2/26/2023,true,586566,12.6,Business Development
+328,Female,4/22/2024,false,577771,5.6,Training
+329,Female,8/18/2023,false,529381,9.1,Accounting
+330,Female,1/29/2024,true,503230,10.0,Training
+331,,3/5/2024,true,429839,7.2,Product Management
+332,Male,12/30/2023,false,535474,11.8,Research and Development
+333,Female,10/12/2023,false,519870,10.2,Business Development
+334,Male,6/26/2023,false,391725,6.9,Training
+335,Male,1/20/2024,false,314294,10.9,Services
+336,Male,4/6/2024,false,489316,8.5,Support
+337,Female,3/9/2023,false,566071,7.8,Human Resources
+338,Female,1/1/2024,false,362641,13.4,Research and Development
+339,Male,2/19/2023,false,518527,11.4,Business Development
+340,Male,9/1/2023,true,398312,12.6,Human Resources
+341,Female,11/22/2023,false,676743,5.8,Services
+342,Female,12/13/2023,true,672484,5.8,Support
+343,Female,11/19/2023,false,448735,10.5,Legal
+344,Female,2/21/2024,false,693540,10.6,Accounting
+345,Male,5/7/2024,true,748132,11.0,Support
+346,Female,4/25/2023,true,605168,8.0,Research and Development
+347,Female,3/6/2023,false,303676,7.6,Legal
+348,Male,7/15/2023,false,534278,7.8,Research and Development
+349,,9/26/2023,true,665114,7.0,Research and Development
+350,Bigender,1/1/2024,false,548139,12.5,Engineering
+351,Female,8/23/2023,true,750229,9.9,Research and Development
+352,Male,4/22/2023,false,734507,8.0,Training
+353,Female,5/14/2024,true,676846,9.1,Support
+354,Female,8/23/2023,true,665612,8.3,Engineering
+355,Female,1/21/2024,true,740932,5.6,Business Development
+356,Male,7/23/2023,true,415319,7.8,Services
+357,Male,11/1/2023,false,306685,9.6,Business Development
+358,Male,2/3/2024,false,504889,12.0,Sales
+359,Female,8/8/2023,false,799259,5.1,Engineering
+360,Male,2/4/2023,true,516833,5.9,Product Management
+361,Female,11/20/2023,false,552226,10.4,Services
+362,Male,5/19/2024,true,475690,8.5,Marketing
+363,,12/24/2023,true,536572,7.2,Sales
+364,Male,3/31/2024,true,610687,13.8,Human Resources
+365,Female,6/8/2023,true,370152,10.6,Marketing
+366,Female,6/28/2023,false,725010,11.7,Accounting
+367,Female,11/20/2023,false,512333,6.0,Engineering
+368,Male,4/5/2023,true,676525,10.8,Business Development
+369,Male,5/20/2023,false,435386,10.6,Accounting
+370,Female,7/2/2023,true,571099,9.9,Support
+371,Non-binary,3/13/2024,true,603005,11.1,Support
+372,Female,3/7/2023,true,682569,8.4,Human Resources
+373,Female,4/2/2023,true,526421,8.8,Engineering
+374,Male,1/1/2024,false,759549,5.1,Accounting
+375,Male,4/16/2024,false,317877,7.9,Research and Development
+376,Female,5/20/2023,true,618404,10.1,Research and Development
+377,Male,5/29/2023,false,334313,9.2,Marketing
+378,Male,7/6/2023,true,738549,6.7,Accounting
+379,Female,6/6/2023,true,416510,11.8,Sales
+380,Female,5/17/2024,true,596182,13.4,Accounting
+381,Male,8/25/2023,true,354500,5.2,Training
+382,Female,3/9/2023,true,752649,6.3,Sales
+383,Male,7/5/2023,true,628321,5.8,Engineering
+384,Genderfluid,2/9/2023,true,393536,14.3,Human Resources
+385,Female,5/5/2024,true,489824,7.9,Services
+386,Male,11/14/2023,true,369675,14.0,Research and Development
+387,Female,6/29/2023,true,571268,9.9,Human Resources
+388,Female,4/13/2023,false,693587,14.3,Legal
+389,Male,3/19/2023,false,518030,14.4,Accounting
+390,Male,8/28/2023,false,504954,6.2,Sales
+391,,12/28/2023,false,667017,10.1,Support
+392,Male,11/29/2023,true,337677,7.9,Legal
+393,Male,1/17/2024,true,543078,11.7,Sales
+394,Female,8/23/2023,false,525322,7.7,Services
+395,Male,3/8/2023,true,650972,7.8,Product Management
+396,Female,2/29/2024,false,795194,10.6,Business Development
+397,Female,5/13/2023,true,397877,7.7,Support
+398,Female,9/18/2023,true,336067,11.3,Support
+399,,8/23/2023,false,533337,5.2,Sales
+400,Female,10/15/2023,false,379485,11.5,Engineering
+401,Male,4/12/2024,false,732541,5.9,Sales
+402,Female,6/15/2023,true,481189,7.1,Engineering
+403,Female,2/26/2024,true,638529,6.7,Sales
+404,Male,5/12/2024,true,396382,12.8,Accounting
+405,Female,6/12/2023,false,752588,9.7,Sales
+406,Female,9/7/2023,true,326427,10.9,Research and Development
+407,Male,12/31/2023,false,520849,12.6,Marketing
+408,Male,6/20/2023,false,713204,8.4,Engineering
+409,Male,11/2/2023,true,741965,6.1,Support
+410,Female,9/29/2023,false,451119,7.8,Marketing
+411,Female,2/18/2023,false,781327,6.8,Legal
+412,Female,12/6/2023,false,466158,9.2,Marketing
+413,Male,3/13/2024,true,741168,14.7,Research and Development
+414,Male,7/26/2023,true,797356,10.5,Product Management
+415,Male,4/28/2023,false,434659,11.8,Engineering
+416,Male,5/24/2023,false,314345,9.7,Sales
+417,,9/23/2023,true,395806,13.0,Services
+418,Female,5/3/2024,false,726117,9.3,Services
+419,Genderqueer,1/24/2024,true,365438,12.5,Marketing
+420,Female,12/23/2023,false,500682,13.6,Human Resources
+421,Female,1/12/2024,true,389690,12.6,Training
+422,,2/9/2024,true,708922,14.4,Research and Development
+423,,12/15/2023,true,607276,8.8,Support
+424,Genderqueer,12/21/2023,false,712872,11.5,Marketing
+425,Male,5/27/2023,false,795270,6.3,Services
+426,Male,5/17/2023,true,463128,6.4,Marketing
+427,Female,12/2/2023,true,432317,13.1,Accounting
+428,Female,4/10/2023,false,659148,10.8,Human Resources
+429,Female,10/3/2023,true,667348,10.3,Accounting
+430,Female,1/17/2024,false,611601,5.7,Engineering
+431,Female,2/14/2024,false,578858,10.1,Marketing
+432,Female,8/26/2023,false,686961,10.3,Services
+433,Male,2/11/2024,false,649928,12.1,Services
+434,Female,3/26/2023,false,337757,13.0,Engineering
+435,Female,6/10/2023,true,352629,9.5,Research and Development
+436,Female,4/2/2023,true,549414,6.6,Human Resources
+437,Female,11/14/2023,true,497946,9.9,Support
+438,Female,10/12/2023,false,676916,10.3,Marketing
+439,Female,4/3/2023,false,425972,8.1,Legal
+440,Genderqueer,2/23/2023,false,512271,13.9,Sales
+441,Male,5/27/2023,false,410844,6.7,Research and Development
+442,Female,1/7/2024,true,391243,12.5,Legal
+443,Female,1/9/2024,true,695411,8.2,Services
+444,Male,6/13/2023,false,797593,14.9,Product Management
+445,Female,3/14/2024,false,787406,9.3,Product Management
+446,Polygender,6/12/2023,true,472066,11.8,Human Resources
+447,Male,4/2/2023,false,389957,11.8,Business Development
+448,,4/17/2023,true,553201,6.4,Services
+449,Female,6/10/2023,true,662881,13.6,Product Management
+450,Female,3/29/2024,false,458943,13.4,Product Management
+451,Male,3/22/2024,false,488298,8.5,Human Resources
+452,Male,12/11/2023,false,417848,7.6,Accounting
+453,Female,3/29/2023,false,601156,5.3,Research and Development
+454,Female,2/26/2024,false,735563,11.7,Business Development
+455,,2/12/2024,false,541198,8.5,Product Management
+456,Male,1/7/2024,true,537204,14.7,Legal
+457,Male,12/16/2023,true,644974,10.9,Accounting
+458,Female,2/10/2023,true,733949,14.6,Human Resources
+459,Female,8/10/2023,false,659795,6.8,Sales
+460,Male,2/28/2023,false,491940,5.9,Support
+461,Female,3/13/2023,true,629152,14.7,Sales
+462,Female,1/2/2024,false,478109,7.7,Training
+463,Male,9/30/2023,false,696090,14.3,Accounting
+464,Polygender,9/14/2023,true,699285,13.9,Support
+465,Male,4/8/2023,false,451887,6.2,Engineering
+466,Female,12/12/2023,false,552579,5.7,Human Resources
+467,Female,2/3/2024,false,526896,7.3,Product Management
+468,Female,2/18/2024,false,663241,6.0,Accounting
+469,Genderfluid,12/29/2023,false,379084,13.7,Training
+470,Non-binary,2/26/2024,false,795359,10.1,Legal
+471,Male,3/14/2024,false,431570,11.0,Services
+472,Female,3/1/2024,true,730751,13.9,Product Management
+473,Male,8/16/2023,true,645012,13.0,Product Management
+474,Male,3/4/2024,false,666757,7.6,Accounting
+475,Male,9/20/2023,true,647047,12.6,Human Resources
+476,Female,9/16/2023,false,620350,8.4,Accounting
+477,Male,4/9/2023,true,636272,12.3,Research and Development
+478,Male,3/14/2024,false,767650,7.0,Support
+479,,7/2/2023,true,308850,7.1,Support
+480,Male,6/14/2023,false,590984,13.2,Accounting
+481,Female,2/2/2024,false,474483,12.7,Support
+482,Female,8/17/2023,true,765030,6.5,Support
+483,Male,11/15/2023,false,783020,9.3,Legal
+484,Female,5/14/2024,true,377283,9.2,Legal
+485,Male,1/24/2024,false,637560,9.9,Legal
+486,Female,1/8/2024,false,642912,6.3,Marketing
+487,Female,2/5/2023,false,603151,7.4,Legal
+488,Female,3/12/2024,true,621550,14.6,Sales
+489,Male,4/22/2023,true,758279,11.7,Research and Development
+490,Female,3/3/2024,false,622882,7.2,Services
+491,Male,2/25/2024,false,434000,9.0,Marketing
+492,,6/26/2023,true,784860,10.4,Training
+493,Female,2/12/2024,true,425955,10.9,Business Development
+494,Female,4/8/2024,true,330729,12.7,Product Management
+495,Female,7/14/2023,false,653765,14.5,Product Management
+496,Female,4/3/2023,true,382664,5.7,Research and Development
+497,Male,9/24/2023,false,318726,13.8,Engineering
+498,Male,5/15/2023,false,451241,11.9,Support
+499,Female,8/31/2023,false,471893,7.9,Engineering
+500,Male,2/26/2024,false,729060,14.6,Services
+501,Female,6/27/2023,false,677424,10.0,Research and Development
+502,Male,11/22/2023,true,597075,14.0,Product Management
+503,Agender,8/7/2023,false,718282,8.8,Human Resources
+504,Male,12/14/2023,false,771526,11.6,Support
+505,Female,9/22/2023,true,454774,9.9,Legal
+506,Male,12/11/2023,false,749239,11.4,Human Resources
+507,Genderfluid,4/12/2023,false,321428,7.7,Legal
+508,Male,12/10/2023,true,587389,13.5,Engineering
+509,Female,11/8/2023,false,488982,14.1,Accounting
+510,Female,3/31/2023,false,546988,9.3,Product Management
+511,Female,5/29/2023,false,305028,12.7,Engineering
+512,Male,2/12/2024,false,412910,9.6,Support
+513,Female,6/12/2023,true,768907,12.8,Services
+514,Male,4/16/2024,false,785021,6.5,Human Resources
+515,Male,8/24/2023,false,647929,9.3,Sales
+516,Male,9/17/2023,true,335523,13.6,Business Development
+517,Female,9/14/2023,true,496224,8.4,Sales
+518,Female,3/12/2023,false,436645,5.8,Accounting
+519,Female,3/28/2023,false,464966,14.5,Engineering
+520,Male,10/15/2023,false,761091,14.6,Business Development
+521,Female,1/15/2024,false,697146,6.4,Product Management
+522,Male,1/4/2024,true,551038,10.9,Services
+523,Female,9/14/2023,true,380372,11.6,Product Management
+524,Female,1/17/2024,true,433329,10.1,Business Development
+525,Female,7/31/2023,true,430622,7.8,Legal
+526,Male,8/5/2023,false,323848,14.9,Services
+527,Female,7/8/2023,false,461335,14.9,Sales
+528,Female,3/19/2023,false,794959,14.7,Engineering
+529,Male,1/14/2024,true,749430,12.2,Support
+530,Male,1/29/2024,true,684814,13.0,Engineering
+531,Female,4/3/2024,true,648973,11.7,Marketing
+532,Female,9/13/2023,true,570438,11.0,Engineering
+533,Genderfluid,10/16/2023,true,372667,8.3,Marketing
+534,,3/30/2024,false,744227,14.8,Engineering
+535,Male,6/16/2023,true,735286,14.8,Research and Development
+536,Female,3/11/2024,true,760046,12.2,Training
+537,Female,6/20/2023,false,312484,10.3,Product Management
+538,,10/26/2023,true,381133,6.9,Engineering
+539,Female,3/28/2024,false,620686,9.0,Human Resources
+540,Male,4/20/2023,true,765087,11.5,Training
+541,Male,9/6/2023,false,468809,6.1,Product Management
+542,Male,2/11/2023,false,372474,10.3,Services
+543,Agender,11/20/2023,true,463855,7.4,Sales
+544,Female,3/12/2024,true,515309,6.2,Human Resources
+545,Agender,3/29/2023,true,704244,14.4,Sales
+546,Female,2/28/2023,false,758302,10.9,Research and Development
+547,Male,7/1/2023,false,505378,10.2,Research and Development
+548,Female,10/16/2023,false,377008,14.6,Training
+549,Female,3/13/2023,true,458357,8.1,Business Development
+550,Male,10/5/2023,false,642765,7.5,Accounting
+551,Female,2/4/2023,false,367402,8.7,Engineering
+552,Female,3/31/2024,true,746765,6.9,Business Development
+553,Female,7/6/2023,true,477108,11.7,Marketing
+554,Male,1/11/2024,true,700274,13.9,Marketing
+555,Male,4/6/2023,true,558871,8.9,Legal
+556,Male,2/3/2023,true,717156,10.9,Product Management
+557,Female,5/6/2024,true,740383,11.5,Product Management
+558,Female,4/9/2023,false,630882,9.0,Human Resources
+559,Male,11/11/2023,false,417524,7.6,Human Resources
+560,Female,5/10/2024,true,695070,12.1,Sales
+561,Female,3/20/2023,false,560507,10.1,Human Resources
+562,Female,11/6/2023,true,644141,12.7,Accounting
+563,Male,2/19/2024,false,401164,13.6,Support
+564,Male,3/18/2024,false,506187,10.6,Marketing
+565,Male,1/28/2024,true,454912,7.9,Accounting
+566,Male,3/15/2023,true,469074,11.9,Services
+567,Female,1/14/2024,true,614446,6.2,Services
+568,Male,1/10/2024,true,707659,11.1,Marketing
+569,Male,1/7/2024,false,579466,8.4,Legal
+570,Male,9/9/2023,true,313402,13.4,Business Development
+571,Male,8/22/2023,true,588308,9.1,Research and Development
+572,Female,10/16/2023,true,731291,14.9,Product Management
+573,Female,4/14/2023,false,308935,7.4,Business Development
+574,Female,4/18/2024,false,463601,10.3,Legal
+575,Female,9/19/2023,true,722899,12.0,Marketing
+576,Male,4/5/2023,false,622440,5.5,Human Resources
+577,Female,10/9/2023,false,402819,12.0,Legal
+578,,10/2/2023,false,351079,7.3,Research and Development
+579,Female,10/5/2023,true,554916,14.1,Sales
+580,Male,5/4/2024,true,436464,9.9,Engineering
+581,Male,8/28/2023,true,353329,9.8,Support
+582,Female,9/16/2023,false,483283,12.8,Marketing
+583,Genderqueer,4/15/2023,false,628779,14.2,Sales
+584,Female,1/21/2024,false,373246,11.7,Sales
+585,Male,8/5/2023,false,555336,14.2,Product Management
+586,Female,12/19/2023,false,405191,7.5,Legal
+587,Male,12/29/2023,false,464619,14.5,Training
+588,Male,8/27/2023,true,779086,6.5,Research and Development
+589,Female,2/11/2024,true,693756,14.0,Support
+590,Female,3/19/2023,true,426633,5.9,Sales
+591,Female,3/24/2023,true,340896,8.6,Engineering
+592,Female,5/4/2024,false,619185,6.5,Engineering
+593,Genderqueer,5/15/2024,true,371662,9.9,Business Development
+594,Male,12/16/2023,false,556628,12.2,Training
+595,Male,7/14/2023,true,340582,12.9,Sales
+596,Male,2/8/2024,true,346196,11.5,Accounting
+597,Female,2/1/2024,true,418149,12.1,Product Management
+598,Female,5/9/2023,false,465343,8.0,Engineering
+599,Male,2/10/2024,true,331147,7.1,Human Resources
+600,Male,12/24/2023,true,668455,7.4,Services
+601,Male,12/27/2023,false,425355,13.4,Research and Development
+602,Male,5/19/2023,true,714273,9.5,Research and Development
+603,Male,3/15/2023,true,366717,13.1,Services
+604,Male,8/18/2023,true,787766,9.3,Engineering
+605,Female,10/9/2023,true,321599,11.6,Business Development
+606,Male,9/22/2023,true,303844,9.4,Accounting
+607,Female,8/3/2023,true,763068,6.7,Accounting
+608,Male,7/24/2023,false,479328,12.1,Services
+609,Male,2/9/2024,true,676249,9.2,Product Management
+610,Female,5/12/2024,true,319921,14.0,Legal
+611,Female,2/7/2023,false,646444,13.5,Training
+612,Female,10/1/2023,false,693404,6.7,Legal
+613,Non-binary,6/7/2023,false,557572,9.5,Legal
+614,Female,6/15/2023,false,792366,13.0,Training
+615,Female,4/16/2024,true,328529,9.5,Support
+616,Male,8/29/2023,false,412569,7.3,Training
+617,Female,7/29/2023,false,352109,6.4,Engineering
+618,Female,5/16/2023,false,342228,13.5,Marketing
+619,Polygender,5/29/2023,true,622127,11.8,Research and Development
+620,Male,10/9/2023,true,408497,9.9,Training
+621,Female,2/2/2024,false,533414,12.3,Support
+622,Male,2/8/2023,false,517085,12.7,Product Management
+623,Female,6/18/2023,false,366576,9.3,Engineering
+624,Female,10/13/2023,false,610760,9.5,Marketing
+625,Male,7/9/2023,false,450047,13.5,Sales
+626,Female,8/21/2023,true,339577,5.3,Training
+627,Male,3/22/2023,true,729560,14.6,Accounting
+628,Female,8/5/2023,false,763560,11.0,Services
+629,,3/21/2024,false,532009,13.7,Support
+630,,3/21/2023,true,658041,8.6,Sales
+631,Female,4/4/2024,true,474457,6.1,Accounting
+632,Male,2/7/2023,false,570019,8.3,Training
+633,Female,11/15/2023,true,618256,13.8,Sales
+634,Female,4/25/2024,true,391521,11.4,Legal
+635,Male,4/11/2024,false,408840,12.4,Training
+636,Non-binary,9/18/2023,true,797902,8.6,Legal
+637,Female,7/27/2023,false,624326,5.2,Marketing
+638,Male,3/31/2023,false,576703,8.8,Legal
+639,Female,4/19/2023,false,367603,10.2,Marketing
+640,Female,5/10/2024,true,354583,13.9,Marketing
+641,Male,4/18/2024,false,351015,5.4,Business Development
+642,Male,6/16/2023,false,325501,11.8,Legal
+643,Male,1/5/2024,true,585022,5.6,Legal
+644,Female,1/10/2024,true,634521,13.3,Research and Development
+645,Male,4/17/2024,false,650833,13.7,Engineering
+646,Male,5/29/2023,true,769223,7.4,Services
+647,,3/18/2023,true,778303,14.8,Sales
+648,Male,9/27/2023,false,579809,14.0,Support
+649,Male,4/7/2024,true,463372,8.7,Accounting
+650,Male,9/29/2023,true,772913,9.1,Training
+651,Female,9/4/2023,false,577858,10.0,Business Development
+652,Male,11/11/2023,false,605955,8.1,Research and Development
+653,Female,3/15/2024,true,499958,7.5,Research and Development
+654,Female,1/11/2024,true,724614,8.7,Business Development
+655,Female,5/21/2024,true,383391,14.6,Human Resources
+656,Non-binary,3/28/2023,true,413768,11.5,Research and Development
+657,Polygender,7/9/2023,true,530385,6.7,Accounting
+658,Female,8/13/2023,true,693569,13.7,Accounting
+659,Male,1/4/2024,true,587921,13.0,Support
+660,Female,11/26/2023,false,631092,9.7,Sales
+661,Male,2/8/2024,false,394891,7.7,Sales
+662,Genderqueer,3/7/2024,false,479749,5.2,Legal
+663,Genderfluid,9/26/2023,true,559938,10.7,Services
+664,Male,2/10/2023,false,352145,11.3,Legal
+665,Female,3/30/2023,true,695784,8.5,Support
+666,Polygender,4/26/2024,true,449235,8.1,Legal
+667,Male,9/2/2023,false,552695,9.3,Marketing
+668,,3/8/2023,true,328845,7.5,Accounting
+669,Female,11/22/2023,true,327472,12.7,Marketing
+670,Male,5/16/2024,false,689777,12.5,Business Development
+671,Female,4/29/2023,true,773371,14.5,Marketing
+672,Female,5/4/2023,false,323173,11.5,Sales
+673,Female,9/7/2023,true,324990,11.3,Accounting
+674,Female,7/5/2023,true,322414,14.0,Human Resources
+675,Female,6/19/2023,true,780315,6.5,Engineering
+676,Female,11/20/2023,false,401719,12.6,Marketing
+677,Bigender,5/5/2024,true,343090,11.7,Legal
+678,Female,11/8/2023,false,503208,9.4,Engineering
+679,Female,5/5/2023,true,783020,5.8,Legal
+680,Female,12/30/2023,true,751251,7.9,Accounting
+681,Female,10/30/2023,true,377933,5.3,Product Management
+682,Female,7/11/2023,true,439895,7.2,Human Resources
+683,Male,9/2/2023,true,723199,10.7,Marketing
+684,Male,2/12/2024,true,653755,14.5,Accounting
+685,Female,4/13/2023,false,599008,11.6,Training
+686,Female,1/31/2024,true,754753,12.8,Human Resources
+687,Male,5/1/2024,false,738524,14.0,Research and Development
+688,Male,2/5/2023,false,310313,5.5,Research and Development
+689,Female,1/3/2024,false,560830,5.6,Legal
+690,Male,11/8/2023,true,522903,7.4,Business Development
+691,Male,9/21/2023,false,455465,12.5,Marketing
+692,Male,3/4/2024,false,728551,7.4,Accounting
+693,Female,2/24/2023,false,582583,14.4,Services
+694,Male,4/3/2023,false,693822,8.1,Marketing
+695,Female,6/15/2023,false,597847,8.2,Research and Development
+696,Female,7/23/2023,false,784563,13.9,Support
+697,,2/13/2023,false,310455,8.1,Legal
+698,Bigender,3/8/2024,false,519232,9.9,Training
+699,Female,7/26/2023,true,719575,11.5,Marketing
+700,Male,2/7/2023,true,654389,6.0,Marketing
+701,Male,1/26/2024,false,589134,14.7,Services
+702,Female,5/20/2023,true,567413,12.8,Training
+703,Male,1/31/2024,false,377800,11.7,Human Resources
+704,Female,4/9/2024,false,443276,13.5,Marketing
+705,Bigender,12/11/2023,false,629339,9.5,Human Resources
+706,Female,10/15/2023,true,372117,14.0,Services
+707,Male,5/19/2024,false,416377,11.6,Legal
+708,Male,2/13/2023,false,430637,14.3,Services
+709,Male,3/28/2024,true,502087,13.0,Accounting
+710,Male,2/10/2023,true,343429,6.4,Accounting
+711,Female,7/22/2023,false,656917,5.5,Business Development
+712,,6/15/2023,true,419519,8.2,Sales
+713,Female,4/12/2023,false,392566,9.4,Product Management
+714,Male,1/22/2024,true,657411,5.8,Business Development
+715,Female,4/22/2023,false,586201,7.4,Accounting
+716,,8/18/2023,false,449101,10.5,Accounting
+717,Bigender,9/2/2023,false,339799,6.4,Business Development
+718,Male,4/4/2024,true,301836,12.2,Legal
+719,,5/27/2023,true,717822,13.3,Support
+720,Male,4/13/2023,false,451733,9.0,Training
+721,Female,12/14/2023,false,362697,14.5,Research and Development
+722,Male,5/2/2023,true,783389,14.6,Human Resources
+723,Male,2/22/2023,false,368509,14.3,Sales
+724,Female,4/1/2023,true,411242,11.6,Services
+725,Male,2/16/2024,true,774919,12.5,Engineering
+726,Male,5/17/2023,true,435873,11.2,Research and Development
+727,Female,9/14/2023,true,714060,10.5,Marketing
+728,Female,4/2/2023,true,658534,7.4,Sales
+729,Male,1/7/2024,false,569291,5.2,Product Management
+730,Female,8/9/2023,true,769706,7.4,Research and Development
+731,Male,8/10/2023,false,555668,6.0,Business Development
+732,Genderqueer,3/14/2023,true,521244,5.6,Sales
+733,Male,5/13/2023,true,539343,14.1,Product Management
+734,Female,3/23/2023,true,361342,11.9,Training
+735,Male,6/14/2023,true,767562,10.2,Legal
+736,Male,4/23/2024,true,523156,9.8,Product Management
+737,Male,11/20/2023,false,595670,11.4,Legal
+738,Male,11/22/2023,true,745738,14.3,Training
+739,Non-binary,9/28/2023,true,308358,8.2,Accounting
+740,Female,8/13/2023,true,499783,9.7,Marketing
+741,Male,3/7/2023,true,426209,9.3,Marketing
+742,,3/21/2024,false,605552,11.1,Training
+743,Male,3/18/2024,true,408679,6.5,Services
+744,Female,7/16/2023,false,691279,5.7,Engineering
+745,Female,5/29/2023,false,533475,13.2,Engineering
+746,Female,10/11/2023,false,348949,10.0,Engineering
+747,Male,4/25/2023,true,751716,12.4,Support
+748,Female,7/23/2023,false,697144,8.9,Support
+749,Male,7/15/2023,false,496280,8.8,Support
+750,Male,6/14/2023,true,317907,10.0,Sales
+751,Male,4/7/2024,true,492443,8.6,Business Development
+752,Male,12/25/2023,true,403786,5.7,Accounting
+753,Male,11/10/2023,true,687012,11.9,Legal
+754,Male,6/6/2023,false,612027,13.8,Marketing
+755,Female,2/20/2023,false,661582,9.9,Engineering
+756,Female,2/25/2024,true,630839,8.3,Services
+757,Female,3/13/2023,false,523392,13.8,Business Development
+758,Male,6/23/2023,false,633585,10.0,Marketing
+759,Female,8/8/2023,false,350955,5.1,Training
+760,Female,5/18/2024,true,713618,6.8,Legal
+761,Male,1/7/2024,false,654495,11.9,Human Resources
+762,Female,4/8/2024,true,694383,13.2,Marketing
+763,Male,1/30/2024,true,499130,14.4,Sales
+764,Female,7/25/2023,true,519810,10.0,Services
+765,,2/5/2023,false,317321,8.0,Accounting
+766,Male,3/17/2023,false,727049,12.4,Training
+767,Male,4/6/2023,true,384959,7.2,Services
+768,Genderfluid,3/8/2023,true,627714,10.7,Human Resources
+769,,3/1/2023,true,345952,8.0,Business Development
+770,Female,9/16/2023,false,702930,14.0,Engineering
+771,Female,5/2/2024,false,313071,5.4,Business Development
+772,Non-binary,2/16/2023,true,576244,7.5,Sales
+773,Female,5/14/2023,false,448378,6.0,Accounting
+774,Male,12/18/2023,true,765979,7.5,Marketing
+775,Non-binary,9/10/2023,true,424657,6.5,Sales
+776,Male,9/29/2023,false,460204,13.5,Accounting
+777,Female,5/1/2023,true,635422,8.1,Engineering
+778,Female,10/31/2023,false,373496,9.6,Engineering
+779,Female,3/17/2023,false,642864,10.2,Training
+780,Female,3/7/2024,true,351860,6.7,Engineering
+781,Male,8/30/2023,true,661000,13.7,Engineering
+782,Female,6/27/2023,false,537043,13.3,Support
+783,Male,3/13/2024,true,650866,10.3,Research and Development
+784,Female,8/24/2023,true,682531,9.3,Human Resources
+785,Female,5/5/2024,false,628969,13.9,Sales
+786,,10/27/2023,true,608161,10.1,Services
+787,Female,5/2/2024,false,374998,11.6,Research and Development
+788,Genderqueer,7/30/2023,false,600877,7.3,Marketing
+789,Female,11/25/2023,false,726701,7.1,Legal
+790,Male,10/17/2023,false,707194,10.5,Product Management
+791,Female,4/17/2024,true,363945,12.3,Training
+792,,3/19/2023,true,510879,14.6,Marketing
+793,Female,3/26/2023,false,315760,8.3,Legal
+794,,3/20/2023,false,332953,8.6,Accounting
+795,Female,2/19/2024,true,655912,9.1,Accounting
+796,,1/22/2024,true,350247,7.2,Sales
+797,Female,4/2/2024,true,506942,9.0,Product Management
+798,Female,11/20/2023,false,378396,8.9,Legal
+799,Male,8/12/2023,true,594724,13.7,Product Management
+800,,10/7/2023,false,437072,10.9,Research and Development
+801,Female,6/12/2023,false,771058,13.8,Training
+802,Female,9/29/2023,false,532841,13.4,Business Development
+803,Female,11/29/2023,false,609864,10.1,Business Development
+804,Male,4/27/2024,true,612109,14.1,Accounting
+805,Female,5/1/2023,true,790852,8.1,Training
+806,Male,4/5/2023,false,314481,14.5,Marketing
+807,Male,1/5/2024,false,577740,7.6,Accounting
+808,Female,9/18/2023,true,534255,8.7,Training
+809,,5/11/2024,true,333792,10.5,Sales
+810,Male,10/17/2023,false,421751,10.0,Sales
+811,Female,7/19/2023,true,789852,7.3,Business Development
+812,Female,12/17/2023,false,347487,13.0,Human Resources
+813,,1/17/2024,true,764844,14.5,Services
+814,Male,4/24/2024,true,496331,9.8,Support
+815,Male,5/26/2023,false,585911,9.7,Human Resources
+816,Female,8/16/2023,true,736004,11.8,Sales
+817,Female,5/20/2023,false,518205,8.1,Marketing
+818,Male,8/28/2023,false,637973,12.9,Services
+819,Female,12/27/2023,true,354719,5.8,Training
+820,Female,9/19/2023,false,586905,11.8,Business Development
+821,Male,1/17/2024,true,678721,10.6,Human Resources
+822,Female,4/28/2024,true,371384,10.8,Legal
+823,Female,9/8/2023,true,678125,6.4,Business Development
+824,Female,5/10/2023,true,570658,13.3,Marketing
+825,Male,4/20/2023,true,414124,6.1,Research and Development
+826,Female,1/14/2024,true,666866,10.9,Product Management
+827,Male,9/10/2023,false,458077,12.9,Engineering
+828,Genderqueer,8/18/2023,false,323163,7.0,Product Management
+829,Male,12/24/2023,true,493337,11.2,Research and Development
+830,Female,4/5/2023,false,660677,11.4,Product Management
+831,,8/28/2023,false,367669,7.4,Marketing
+832,Male,4/24/2024,true,607671,11.8,Accounting
+833,Female,7/4/2023,false,521432,13.8,Marketing
+834,Male,9/2/2023,true,338160,11.4,Sales
+835,Female,7/29/2023,false,589023,11.6,Support
+836,Male,5/11/2023,true,696154,13.4,Engineering
+837,Female,3/30/2023,true,577119,8.3,Product Management
+838,Female,12/8/2023,false,369207,5.3,Product Management
+839,Female,1/12/2024,true,553315,5.2,Product Management
+840,Male,11/17/2023,true,338901,6.3,Sales
+841,Female,9/15/2023,false,538373,6.4,Legal
+842,Male,3/3/2023,false,587610,7.6,Services
+843,Female,4/13/2024,true,572257,8.5,Marketing
+844,Female,3/13/2023,false,658452,13.3,Research and Development
+845,Male,11/13/2023,false,383613,12.5,Sales
+846,Male,9/28/2023,true,613117,5.1,Training
+847,Female,10/11/2023,true,790808,8.9,Training
+848,Male,12/8/2023,false,618490,8.3,Legal
+849,Female,3/21/2023,false,791177,10.0,Business Development
+850,Male,3/7/2023,false,409268,11.3,Product Management
+851,Male,3/27/2023,false,305408,11.8,Sales
+852,Male,11/19/2023,false,505447,10.1,Accounting
+853,Female,7/14/2023,true,718394,6.6,Legal
+854,Male,1/2/2024,false,705040,12.1,Support
+855,Male,10/7/2023,false,642545,13.8,Engineering
+856,Male,10/27/2023,true,444583,10.4,Services
+857,Female,3/10/2024,true,585812,9.4,Human Resources
+858,Male,10/17/2023,false,313768,7.7,Legal
+859,Female,12/25/2023,true,355667,6.0,Accounting
+860,Male,8/4/2023,true,349735,9.6,Human Resources
+861,Male,6/10/2023,false,771214,10.0,Legal
+862,Male,12/3/2023,true,564384,6.1,Business Development
+863,Male,3/20/2024,false,567021,9.0,Business Development
+864,Female,5/4/2023,true,455725,13.5,Accounting
+865,Male,12/30/2023,false,742379,5.6,Business Development
+866,Female,2/21/2023,false,321565,12.5,Support
+867,Female,11/16/2023,true,539730,11.3,Marketing
+868,Male,4/21/2024,false,797899,9.9,Support
+869,Female,9/29/2023,true,362099,11.0,Accounting
+870,Male,3/13/2024,false,692860,6.6,Human Resources
+871,Female,10/22/2023,false,674282,7.0,Support
+872,Female,9/21/2023,false,567561,9.6,Support
+873,Female,8/29/2023,true,480933,6.2,Engineering
+874,,4/19/2023,false,533626,9.0,Engineering
+875,Female,7/16/2023,true,717436,8.2,Accounting
+876,Male,3/14/2023,true,503544,13.8,Engineering
+877,Agender,12/1/2023,false,437850,13.2,Training
+878,,7/1/2023,false,478343,11.7,Engineering
+879,Male,11/25/2023,true,415667,8.0,Research and Development
+880,Male,4/6/2023,false,675377,6.1,Engineering
+881,Female,3/6/2024,false,615643,5.4,Legal
+882,Male,4/13/2024,true,544230,8.4,Human Resources
+883,Female,10/21/2023,false,612916,13.7,Engineering
+884,Genderqueer,2/10/2023,true,527583,9.7,Services
+885,,3/22/2024,false,522716,12.1,Business Development
+886,Male,1/6/2024,true,550069,14.9,Training
+887,Female,10/22/2023,true,341811,14.7,Support
+888,Female,1/9/2024,true,502188,5.7,Training
+889,Female,8/14/2023,false,620557,10.2,Human Resources
+890,Male,8/6/2023,true,488820,13.6,Training
+891,Female,9/16/2023,false,559450,13.3,Engineering
+892,Female,3/6/2024,false,509348,13.1,Accounting
+893,Female,9/5/2023,false,677465,7.8,Services
+894,Male,4/12/2023,true,371464,5.9,Product Management
+895,Female,2/14/2024,false,375541,9.5,Accounting
+896,Male,8/6/2023,false,359254,14.6,Human Resources
+897,Female,5/23/2023,true,609087,10.9,Accounting
+898,Male,7/3/2023,true,609216,10.3,Marketing
+899,Male,9/12/2023,false,672673,9.5,Human Resources
+900,Male,10/17/2023,false,441780,13.9,Sales
+901,Male,12/29/2023,false,799578,8.2,Sales
+902,Male,11/25/2023,true,655138,7.1,Support
+903,Female,4/26/2023,false,423049,10.3,Marketing
+904,Male,3/25/2024,false,703352,5.7,Support
+905,Female,4/26/2023,false,771153,7.7,Services
+906,Genderfluid,12/17/2023,false,580473,12.1,Product Management
+907,Male,3/19/2024,false,317434,14.4,Product Management
+908,Male,12/29/2023,false,693452,11.6,Services
+909,Male,6/19/2023,true,304860,5.2,Engineering
+910,Male,9/13/2023,false,438356,9.2,Research and Development
+911,Female,8/9/2023,true,582183,5.6,Marketing
+912,Female,11/8/2023,false,636940,10.8,Support
+913,Female,6/29/2023,true,549540,12.5,Human Resources
+914,Male,3/18/2024,true,501358,12.1,Business Development
+915,Female,10/2/2023,false,496421,7.6,Marketing
+916,Male,9/19/2023,false,377596,13.8,Engineering
+917,Female,3/1/2023,true,652904,7.2,Engineering
+918,Male,9/8/2023,false,382195,14.2,Services
+919,Female,4/8/2024,false,690657,9.5,Research and Development
+920,Female,7/6/2023,false,404307,6.6,Support
+921,Female,11/6/2023,false,774174,6.4,Research and Development
+922,Male,4/20/2024,true,763496,7.0,Engineering
+923,Male,11/20/2023,true,492968,8.1,Services
+924,Female,10/28/2023,false,769212,10.6,Services
+925,Male,5/8/2023,false,704690,13.1,Product Management
+926,Male,12/26/2023,true,543723,14.6,Human Resources
+927,Female,9/20/2023,false,386839,11.0,Services
+928,Male,6/2/2023,true,770692,5.4,Business Development
+929,Female,7/13/2023,false,456121,13.5,Product Management
+930,Male,3/12/2023,false,406714,14.9,Research and Development
+931,Female,2/19/2024,true,356855,8.2,Engineering
+932,,2/11/2024,false,692645,11.0,Services
+933,Male,2/28/2023,false,776444,13.9,Product Management
+934,Male,2/16/2024,true,595650,6.6,Product Management
+935,Female,7/5/2023,true,606495,7.2,Marketing
+936,Female,7/6/2023,false,523694,10.8,Product Management
+937,Female,9/7/2023,false,486195,11.4,Business Development
+938,Male,4/23/2023,true,742337,9.2,Human Resources
+939,Male,3/19/2024,false,763652,5.3,Services
+940,Genderfluid,4/5/2023,false,559491,6.1,Legal
+941,Female,6/10/2023,false,598064,7.4,Services
+942,Agender,3/28/2024,true,705495,9.3,Engineering
+943,Male,2/1/2024,false,793014,14.4,Business Development
+944,Male,12/16/2023,true,615401,14.7,Support
+945,Male,2/26/2023,true,732165,5.1,Accounting
+946,Female,4/8/2024,false,594732,9.4,Research and Development
+947,Female,3/3/2023,true,465874,13.3,Business Development
+948,Female,2/8/2024,false,390674,5.4,Sales
+949,Female,8/5/2023,false,352655,8.3,Research and Development
+950,Male,10/25/2023,true,685756,10.2,Business Development
+951,Male,5/3/2024,false,505111,11.2,Sales
+952,Male,3/1/2024,true,597600,8.8,Training
+953,Male,9/28/2023,true,664522,13.5,Services
+954,Female,4/13/2023,false,346962,8.3,Research and Development
+955,Male,4/10/2024,false,614741,9.1,Support
+956,Female,11/13/2023,true,586773,5.1,Support
+957,Female,7/22/2023,true,447887,9.2,Training
+958,Male,8/20/2023,false,379191,7.2,Research and Development
+959,Agender,2/24/2023,true,494729,10.9,Engineering
+960,Male,4/1/2024,true,368546,13.6,Product Management
+961,Male,4/25/2024,true,694569,5.2,Engineering
+962,Male,7/23/2023,true,534663,13.6,Research and Development
+963,Female,4/17/2024,false,736495,13.3,Training
+964,Male,9/20/2023,true,556046,11.0,Business Development
+965,Female,12/28/2023,false,443059,10.1,Business Development
+966,,7/31/2023,false,650028,9.6,Human Resources
+967,Male,8/15/2023,false,470214,9.3,Legal
+968,Male,3/22/2023,false,330703,9.3,Sales
+969,Male,1/5/2024,true,312060,13.8,Training
+970,Male,10/6/2023,false,377799,5.3,Human Resources
+971,Female,7/19/2023,true,595694,13.4,Legal
+972,Male,12/30/2023,true,636686,8.5,Legal
+973,Female,3/8/2023,true,332217,10.2,Business Development
+974,Male,10/27/2023,true,647421,7.9,Engineering
+975,Female,7/7/2023,false,745771,6.1,Legal
+976,Female,1/7/2024,true,753959,8.8,Support
+977,Female,1/3/2024,true,373133,14.5,Sales
+978,Non-binary,7/30/2023,true,781876,9.5,Business Development
+979,Agender,2/27/2023,true,385367,12.7,Marketing
+980,Female,12/26/2023,true,397030,11.7,Services
+981,Male,3/23/2024,true,719084,9.9,Marketing
+982,Female,8/15/2023,false,786830,6.9,Sales
+983,Female,8/21/2023,false,581549,7.7,Support
+984,Female,2/24/2024,false,672025,5.0,Training
+985,Male,8/2/2023,true,780889,7.2,Business Development
+986,Female,4/23/2023,true,768877,7.9,Services
+987,Male,3/1/2023,false,658885,14.7,Legal
+988,Male,12/31/2023,false,321271,11.0,Product Management
+989,Male,4/2/2023,false,757385,8.4,Accounting
+990,Male,2/23/2024,true,332813,14.0,Support
+991,Male,5/21/2023,true,316101,12.7,Engineering
+992,Male,2/14/2024,true,687303,8.5,Legal
+993,Female,12/9/2023,false,492752,13.4,Research and Development
+994,Male,5/4/2023,true,795280,7.2,Legal
+995,Female,8/19/2023,false,433879,14.3,Engineering
+996,Female,3/31/2023,false,377851,12.0,Human Resources
+997,Female,1/5/2024,false,620298,12.8,Product Management
+998,,3/16/2024,false,361957,13.3,Engineering
+999,Male,7/20/2023,false,466946,12.6,Sales
+1000,Male,8/30/2023,true,499784,7.4,Sales
